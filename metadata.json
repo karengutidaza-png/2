@@ -1,0 +1,8 @@
+{
+  "name": "2",
+  "description": "An application to track gym performance progression, including posture video links and cardio metrics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
